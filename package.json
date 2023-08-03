@@ -1,0 +1,20 @@
+{
+  "name": "pil-cy",
+  "version": "1.0.0",
+  "description": "Cypress test automatizados para el curso del PIL",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "cypress",
+    "test",
+    "automation",
+    "PIL"
+  ],
+  "author": "March",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.17.2"
+  }
+}
